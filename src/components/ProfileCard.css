@@ -1,0 +1,20 @@
+/* src/components/ProfileCard.css */
+.profile-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .profile-card img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .details-link {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+  }
+  
